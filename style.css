@@ -1,8 +1,13 @@
+@font-face {
+  font-family: Light\ Bearer;
+  src: url("Light\ Bearer.ttf");
+}
+
 * {
   margin: 0;
   padding: 0;
   text-decoration: none;
-  font-family: "montserrat";
+  font-family: "Light\ Bearer";
 }
 
 
@@ -45,7 +50,7 @@ body {
 .description {
   position: relative;
   bottom: 65px;
-  left: 210px;
+  left: 230px;
   font-size: 18px;
 }
 
